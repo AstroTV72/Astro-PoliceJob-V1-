@@ -1,7 +1,7 @@
 WebHook = "https://discord.com/api/webhooks/855123504865476689/q0quAwu253iuxjDsioMrbFtcg7SdIWnEGSQdxRjl7Sb8DusRc7FBgPlPnWv8CHZgwncd"
 WebHook2 = "https://discord.com/api/webhooks/855123545935970374/sHCxiLmFB_9pBCj8ZHrluLqbO7OG4s66Bxh5e0B0TmDvp0GyGz5nqPUuWro8FDX9E7H4"
-Name = "Five-Dev"
-Logo = "https://resize-europe1.lanmedia.fr/r/622,311,forcex,center-middle/img/var/europe1/storage/images/europe1/international/le-panda-geant-nest-plus-en-danger-mais-reste-menace-2837755/28733065-1-fre-FR/Le-panda-geant-n-est-plus-en-danger-mais-reste-menace.jpg" -- He must finish by .png or .jpg
+Name = "Astro-PoliceJob"
+Logo = "" -- He must finish by .png or .jpg
 LogsBlue = 3447003
 LogsRed = 15158332
 LogsYellow = 15844367
