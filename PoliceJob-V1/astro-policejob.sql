@@ -1,4 +1,4 @@
-####################
+#####################
 # Astro.#0002      #
 ####################
 INSERT INTO `addon_account` (name, label, shared) VALUES
